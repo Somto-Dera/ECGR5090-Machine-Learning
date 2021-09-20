@@ -1,7 +1,7 @@
 # ECGR5105 - Machine-Learning
+
 ## Course Overview and Objectives:
-    
-    Machine learning is a sub-field of Artificial Intelligence that allows computers to learn and/or act
+Machine learning is a sub-field of Artificial Intelligence that allows computers to learn and/or act
 without being explicitly programmed. This course introduces machine learning principles and
 provides foundations on a data-driven approach for machine intelligence and decision making.
 The topics include variously supervised, unsupervised learning approaches (including deep
