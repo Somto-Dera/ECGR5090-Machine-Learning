@@ -15,14 +15,14 @@ as obtain in-depth experience with a particular topic through a final project.
 3. Support vector machine (SVM) and kernel approach
 4. Sparse coding, sparse and collaborative representation
 5. Deep learning
-  - Feedforward neural networks
-  - Convolutional neural networks
-  - Recurrent neural networks
-  - Good practice of deep neural networks implementation
+   - Feedforward neural networks
+   - Convolutional neural networks
+   - Recurrent neural networks
+   - Good practice of deep neural networks implementation
 6. Deep learning applications
-  - low-level image processing
-  - object detection
-  - semantic segmentation
-  - action recognition, etc.
+   - low-level image processing
+   - object detection
+   - semantic segmentation
+   - action recognition, etc.
 8. Emerging topics in Machine Learning and Computer Vision (e.g., Generative Adversarial
 Networks, DeepFake, Adversarial Robustness, Fairness, etc.)
