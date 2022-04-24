@@ -1,4 +1,4 @@
-# ECGR 5105 - Machine-Learning
+# ECGR 5105 - Introduction-To-Machine-Learning
 
 ## Course Overview and Objectives:
 Machine learning is a sub-field of Artificial Intelligence that allows computers to learn and/or act
